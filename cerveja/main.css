@@ -1,0 +1,160 @@
+main{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    width: 1920px;
+}
+
+.titulo{
+    padding-top: 300px;
+    padding-left: 90px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 1798px;
+    height: 403px;
+    left: 61px;
+    top: 430px;
+
+    background: #302A2A;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.text{  
+    display: flex;
+    justify-content: center;
+    
+
+    width: 600px;
+
+    font-family: 'Gupter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.texto{  
+    display: flex;
+    justify-content: center;
+    
+    width: 600px;
+
+    font-family: 'Gupter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.tex{
+    display: flex;
+    justify-content: center;
+    
+    width: 600px;
+
+    font-family: 'Lato' sans-serif;
+    font-size: 40px;
+
+}
+
+.cima{
+    width: 600px;
+}
+
+.baixo{
+    width: 600px;
+    padding-top: 30px;
+}
+
+.juntos{
+    display: f;
+}
+
+.food-truck{
+    display: flex;
+    padding-left: 650px;
+    padding-top: 35px;
+}
+
+.letra{
+    position: absolute;
+    width: 389px;
+    height: 300px;
+    left: 1335px;
+    top: 409px;
+
+    font-family: 'Lato' sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.button2{
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 60px;
+    margin-top: 30px;
+    width: 1798px;
+    height: 403px;
+    left: 61px;
+    top: 430px;
+    
+    background: #302A2A;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.fundo2{
+    display: flex;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+.LLL{
+    position: absolute;
+    width: 1132px;
+    height: 255px;
+    left: 680px;
+    top: 1020px;
+
+    font-family: 'Lato' sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.maps{
+    padding-top: 112px;
+    font-family: 'Gupter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 115px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.mapa{
+    width: 1920px;
+}

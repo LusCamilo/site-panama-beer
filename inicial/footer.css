@@ -1,0 +1,15 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Gupter', sans-serif;
+    width: 100%;
+}
+
+.butto{
+    font-size: 60px;
+
+    display: flex;
+    justify-content: center;
+    color: white;
+}
